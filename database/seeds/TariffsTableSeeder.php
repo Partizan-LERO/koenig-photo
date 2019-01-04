@@ -21,7 +21,8 @@ class TariffsTableSeeder extends Seeder
             'price' => 1000,
             'total_photos' => 70,
             'total_photoshopied_photos' => 15,
-            'duration' => 1
+            'duration' => 1,
+            'icon' => 'walk.png'
         ]);
 
         Tariff::create([
@@ -30,7 +31,8 @@ class TariffsTableSeeder extends Seeder
             'price' => 2000,
             'total_photos' => 150,
             'total_photoshopied_photos' => 50,
-            'duration' => 1
+            'duration' => 1,
+            'icon' => 'wedding-rings.png'
         ]);
 
         Tariff::create([
@@ -39,7 +41,8 @@ class TariffsTableSeeder extends Seeder
             'price' => 2000,
             'total_photos' => 50,
             'total_photoshopied_photos' => 15,
-            'duration' => 1
+            'duration' => 1,
+            'icon' => 'child.png'
         ]);
 
         Tariff::create([
@@ -48,7 +51,8 @@ class TariffsTableSeeder extends Seeder
             'price' => 2000,
             'total_photos' => 40,
             'total_photoshopied_photos' => 15,
-            'duration' => 1
+            'duration' => 1,
+            'icon' => 'animal.png'
         ]);
 
         Tariff::create([
@@ -57,7 +61,8 @@ class TariffsTableSeeder extends Seeder
             'price' => 2000,
             'total_photos' => 60,
             'total_photoshopied_photos' => 15,
-            'duration' => 1
+            'duration' => 1,
+            'icon' => 'family.png'
         ]);
 
         Tariff::create([
@@ -66,7 +71,8 @@ class TariffsTableSeeder extends Seeder
             'price' => 2000,
             'total_photos' => 60,
             'total_photoshopied_photos' => 20,
-            'duration' => 1
+            'duration' => 1,
+            'icon' => 'lovestory.png'
         ]);
 
         Tariff::create([
@@ -75,7 +81,8 @@ class TariffsTableSeeder extends Seeder
             'price' => 3000,
             'total_photos' => 80,
             'total_photoshopied_photos' => 30,
-            'duration' => 1
+            'duration' => 1,
+            'icon' => 'studio.png'
         ]);
 
         Tariff::create([
@@ -84,7 +91,8 @@ class TariffsTableSeeder extends Seeder
             'price' => 2000,
             'total_photos' => 70,
             'total_photoshopied_photos' => 25,
-            'duration' => 1
+            'duration' => 1,
+            'icon' => 'party.png'
         ]);
     }
 }

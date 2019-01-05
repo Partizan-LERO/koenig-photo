@@ -103,88 +103,83 @@
 
                     <div class="col-lg-3 col-md-4">
                         <div class="portfolio-item wow fadeInUp">
-                            <a href="img/portfolio/1.jpg" class="portfolio-popup">
-                                <img src="img/portfolio/1.jpg" alt="">
-                                <div class="portfolio-overlay">
+                            <a href="img/portfolio/Kris-1.jpg" class="portfolio-popup">
+                                <img src="img/portfolio/Kris-1.jpg" alt="">
+                                {{--<div class="portfolio-overlay">
                                     <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 1</h2></div>
-                                </div>
+                                </div>--}}
                             </a>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4">
                         <div class="portfolio-item wow fadeInUp">
-                            <a href="img/portfolio/2.jpg" class="portfolio-popup">
-                                <img src="img/portfolio/2.jpg" alt="">
-                                <div class="portfolio-overlay">
-                                    <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 2</h2></div>
-                                </div>
+                            <a href="img/portfolio/Kris-4.jpg" class="portfolio-popup">
+                                <img src="img/portfolio/Kris-4.jpg" alt="">
                             </a>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4">
                         <div class="portfolio-item wow fadeInUp">
-                            <a href="img/portfolio/3.jpg" class="portfolio-popup">
-                                <img src="img/portfolio/3.jpg" alt="">
-                                <div class="portfolio-overlay">
-                                    <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 3</h2></div>
-                                </div>
+                            <a href="img/portfolio/Kris-2.jpg" class="portfolio-popup">
+                                <img src="img/portfolio/Kris-2.jpg" alt="">
                             </a>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4">
                         <div class="portfolio-item wow fadeInUp">
-                            <a href="img/portfolio/4.jpg" class="portfolio-popup">
-                                <img src="img/portfolio/4.jpg" alt="">
-                                <div class="portfolio-overlay">
-                                    <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 4</h2></div>
-                                </div>
+                            <a href="img/portfolio/Sveta-6.jpg" class="portfolio-popup">
+                                <img src="img/portfolio/Sveta-6.jpg" alt="">
                             </a>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4">
                         <div class="portfolio-item wow fadeInUp">
-                            <a href="img/portfolio/5.jpg" class="portfolio-popup">
-                                <img src="img/portfolio/5.jpg" alt="">
-                                <div class="portfolio-overlay">
-                                    <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 5</h2></div>
-                                </div>
+                            <a href="img/portfolio/Sveta-1.jpg" class="portfolio-popup">
+                                <img src="img/portfolio/Sveta-1-preview.jpg" alt="">
                             </a>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4">
                         <div class="portfolio-item wow fadeInUp">
-                            <a href="img/portfolio/6.jpg" class="portfolio-popup">
-                                <img src="img/portfolio/6.jpg" alt="">
-                                <div class="portfolio-overlay">
-                                    <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 6</h2></div>
-                                </div>
+                            <a href="img/portfolio/Sveta-2.JPG" class="portfolio-popup">
+                                <img src="img/portfolio/Sveta-2.JPG" alt="">
                             </a>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4">
                         <div class="portfolio-item wow fadeInUp">
-                            <a href="img/portfolio/7.jpg" class="portfolio-popup">
-                                <img src="img/portfolio/7.jpg" alt="">
-                                <div class="portfolio-overlay">
-                                    <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 7</h2></div>
-                                </div>
+                            <a href="img/portfolio/Sveta-3.jpg" class="portfolio-popup">
+                                <img src="img/portfolio/Sveta-3.jpg" alt="">
                             </a>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4">
                         <div class="portfolio-item wow fadeInUp">
-                            <a href="img/portfolio/8.jpg" class="portfolio-popup">
-                                <img src="img/portfolio/8.jpg" alt="">
-                                <div class="portfolio-overlay">
-                                    <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 8</h2></div>
-                                </div>
+                            <a href="img/portfolio/Sveta-4.jpg" class="portfolio-popup">
+                                <img src="img/portfolio/Sveta-4.jpg" alt="">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4">
+                        <div class="portfolio-item wow fadeInUp">
+                            <a href="img/portfolio/Kris-3.JPG" class="portfolio-popup">
+                                <img src="img/portfolio/Kris-3.JPG" alt="">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4">
+                        <div class="portfolio-item wow fadeInUp">
+                            <a href="img/portfolio/Sveta-5.JPG" class="portfolio-popup">
+                                <img src="img/portfolio/Sveta-5.JPG" alt="">
                             </a>
                         </div>
                     </div>
@@ -300,7 +295,7 @@
 
                     <div class="col-lg-6">
                         <div class="box wow fadeInLeft" data-wow-delay="0.2s">
-                            <div class="icon"><i class="fa fa-shopping-bag"></i></div>
+                            <div class="icon"><img src="img/icons/rules/make-up.png" alt=""></div>
                             <h4 class="title">Обработка фотографий</h4>
                             <p class="description">Фотографии для обработки Вы выбираете сами, так как наш вкус может отличаться от Вашего, и мы хотим чтобы Вы получили в обработке именно те фотографии, которые Вы хотите.</p>
                         </div>
@@ -308,7 +303,7 @@
 
                     <div class="col-lg-6">
                         <div class="box wow fadeInRight" data-wow-delay="0.2s">
-                            <div class="icon"><i class="fa fa-map"></i></div>
+                            <div class="icon"><img src="img/icons/rules/pay.more.png" alt=""></div>
                             <h4 class="title">Дополнительные расходы</h4>
                             <p class="description">Выезд за пределы города Калининграда оплачивается отдельно, как и вход/въезд в платные места нашего города и области. В стоимость фотосессии данные расходы не входят.</p>
                         </div>
@@ -316,7 +311,7 @@
 
                     <div class="col-lg-6">
                         <div class="box wow fadeInRight">
-                            <div class="icon"><i class="fa fa-picture-o"></i></div>
+                            <div class="icon"><img src="img/icons/rules/time.png" alt=""></div>
                             <h4 class="title">Сроки изготовления</h4>
                             <p class="description">Срок изготовления фотографий 1-2 недели (за исключением свадебных фотографий).
                                 Сроки изготовления свадебных фотографий - 4-5 недель. Если возникают форс-мажорные ситуации, мы обязательно оповещаем о возможных сдвигах по срокам.</p>
@@ -325,7 +320,7 @@
 
                     <div class="col-lg-6">
                         <div class="box wow fadeInRight" data-wow-delay="0.2s">
-                            <div class="icon"><i class="fa fa-map"></i></div>
+                            <div class="icon"><img src="img/icons/rules/animals.png" alt=""></div>
                             <h4 class="title">О животных</h4>
                             <p class="description">
                                 Вы можете взять на фотосессию своих животных или, при желании, мы предоставляем двух собак. Убедительная просьба не кормить собак, поскольку они у нас не голодают. =)
@@ -336,7 +331,7 @@
 
                     <div class="col-lg-6">
                         <div class="box wow fadeInRight" data-wow-delay="0.2s">
-                            <div class="icon"><i class="fa fa-map"></i></div>
+                            <div class="icon"><img src="img/icons/rules/more-rules.png" alt=""></div>
                             <h4 class="title">Особые условия</h4>
                             <p class="description">Как авторы, мы оставляем за собой право публикации работ (не порочащих честь и достоинство клиентов) на своем сайте, в своей группе или любом другом тематическом ресурсе, включая печатные издания, в качестве рекламы своих услуг. Запрет на публикацию работ в портфолио +50% от стоимости съемки. Соглашаясь на съемку, автоматически Вы соглашаетесь с авторским стилем и обработкой фотографа.</p>
                         </div>
@@ -344,7 +339,7 @@
 
                     <div class="col-lg-6">
                         <div class="box wow fadeInLeft">
-                            <div class="icon"><i class="fa fa-bar-chart"></i></div>
+                            <div class="icon"><img src="img/icons/rules/pay.png" alt=""></div>
                             <h4 class="title">Порядок оплаты</h4>
                             <p class="description">При заказе фотосессии Вы вносите предоплату, которая является гарантом проведения фотосъемки. Предоплата за выездную фотосессию составляет 500 руб., за студийную - в размере арендной платы за студию. Если вы отказываетесь от съемки за неделю и менее - предоплата НЕ возвращается! Окончательный расчет в день съемки.</p>
                         </div>

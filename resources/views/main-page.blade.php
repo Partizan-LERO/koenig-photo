@@ -9,7 +9,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 about-img">
-                        <img src="img/about-img.jpg" alt="">
+                        <img src="img/about-me-new.jpg" alt="">
                     </div>
 
                     <div class="col-lg-6 content">
@@ -114,16 +114,16 @@
 
                     <div class="col-lg-3 col-md-4">
                         <div class="portfolio-item wow fadeInUp">
-                            <a href="img/portfolio/Kris-4.jpg" class="portfolio-popup">
-                                <img src="img/portfolio/Kris-4.jpg" alt="">
+                            <a href="img/portfolio/moto.jpg" class="portfolio-popup">
+                                <img src="img/portfolio/moto.jpg" alt="">
                             </a>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4">
                         <div class="portfolio-item wow fadeInUp">
-                            <a href="img/portfolio/Kris-2.jpg" class="portfolio-popup">
-                                <img src="img/portfolio/Kris-2.jpg" alt="">
+                            <a href="img/portfolio/moto-2.jpg" class="portfolio-popup">
+                                <img src="img/portfolio/moto-2.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -184,6 +184,22 @@
                         </div>
                     </div>
 
+                    <div class="col-lg-3 col-md-4">
+                        <div class="portfolio-item wow fadeInUp">
+                            <a href="img/portfolio/Kris-4.jpg" class="portfolio-popup">
+                                <img src="img/portfolio/Kris-4.jpg" alt="">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4">
+                        <div class="portfolio-item wow fadeInUp">
+                            <a href="img/portfolio/Kris-2.jpg" class="portfolio-popup">
+                                <img src="img/portfolio/Kris-2.jpg" alt="">
+                            </a>
+                        </div>
+                    </div>
+
                 </div>
 
             </div>
@@ -210,7 +226,7 @@
                             А добрый я, потому что всегда сытый перед съёмкой.
                             <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
                         </p>
-                        <img src="img/testimonial-1.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/Rik.jpg" class="testimonial-img" alt="">
                         <h3>Рик</h3>
                         <h4>Самоедская лайка</h4>
                     </div>
@@ -222,7 +238,7 @@
                             А улыбка на фотографиях – это показатель удовольствия, получаемого мной в процессе съёмки.
                             <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
                         </p>
-                        <img src="img/testimonial-2.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/Morti.jpg" class="testimonial-img" alt="">
                         <h3>Морти</h3>
                         <h4>Аляскинский маламут</h4>
                     </div>
@@ -234,7 +250,7 @@
                             Очень довольна полученным результатом.
                             <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
                         </p>
-                        <img src="img/testimonial-3.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/Kris-5.jpg" class="testimonial-img" alt="">
                         <h3>Кристина Стерхова</h3>
                         <h4>Врач-косметолог</h4>
                     </div>
@@ -245,7 +261,7 @@
                             Всегда знаю к кому обратиться за свежими идеями. Как фотограф Надежда просто незаменима, если мне нужны живые, атмосферные фотографии.
                             <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
                         </p>
-                        <img src="img/testimonial-4.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/Sveta-8.jpg" class="testimonial-img" alt="">
                         <h3>Светлана Константинова</h3>
                         <h4>Студентка</h4>
                     </div>

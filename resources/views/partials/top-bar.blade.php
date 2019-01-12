@@ -10,8 +10,8 @@
         <div class="social-links float-right">
             {{--<a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
             <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>--}}
-            <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-            <a href="#" class="vk"><i class="fa fa-vk"></i></a>
+            <a href="https://www.instagram.com/koenigphoto8/" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a>
+            <a href="https://vk.com/public176588481" target="_blank" class="vk"><i class="fa fa-vk"></i></a>
             {{--<a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
             <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>--}}
         </div>

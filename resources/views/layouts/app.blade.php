@@ -7,6 +7,7 @@
     <meta content="Фотосессии Калининград, фотограф, не дорого, с животными, прогулочная, свадебная, lovestory, праздничная, студийная, детская" name="keywords">
     <meta content="Профессиональные фотосессии в Калининграде. Фотосессии с животными. LoveStory. Свадебные фотосесии" name="description">
     <meta name="yandex-verification" content="29398ac98a339293" />
+    <meta name="google-site-verification" content="Zp9XR6x0Zw2xKWeaauxwfrirhtaLI-an5Dq4g2zHPRQ" />
 
     <!-- Favicons -->
     <link href="img/icons/favicons/favicon.png" rel="icon">

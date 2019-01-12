@@ -283,7 +283,7 @@
                             <div class="contact-item col-sm-5">
                                 <i class="fa fa-envelope-o"></i> <a href="mailto:everskova.nadegda.91@gmail.com">everskova.nadegda.91@gmail.com</a>
                             </div>
-                            <div class="contact-item Ecol-sm-5">
+                            <div class="contact-item col-sm-5">
                                 <i class="fa fa-phone"></i> <a href="tel:+79520585195">+7 952 058 51 95</a>
                             </div>
                         </div>

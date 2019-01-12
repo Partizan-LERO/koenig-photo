@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>KönigPhoto</title>
+    <title>KönigPhoto | Фотосессии в Калининграде</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Фотосессии Калининград, фотограф, не дорого, с животными, прогулочная, свадебная, lovestory, праздничная, студийная, детская" name="keywords">
     <meta content="Профессиональные фотосессии в Калининграде. Фотосессии с животными. LoveStory. Свадебные фотосесии" name="description">

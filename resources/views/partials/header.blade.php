@@ -17,7 +17,7 @@
                 <li><a href="#services">Услуги</a></li>
                 <li><a href="#portfolio">Портфолио</a></li>
                 <li><a href="#howwework">Как мы работаем?</a></li>
-                <li><a href="#team">Команда</a></li>
+                {{--<li><a href="#team">Команда</a></li>--}}
                 {{--<li class="menu-has-children"><a href="">Drop Down</a>
                     <ul>
                         <li><a href="#">Drop Down 1</a></li>

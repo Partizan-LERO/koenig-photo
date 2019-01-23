@@ -4,7 +4,7 @@
 <section id="topbar" class="d-none d-lg-block">
     <div class="container clearfix">
         <div class="contact-info float-left">
-            <i class="fa fa-envelope-o"></i> <a href="mailto:everskova.nadegda.91@gmail.com">everskova.nadegda.91@gmail.com</a>
+            <i class="fa fa-envelope-o"></i> <a href="mailto:order@koenig-photo.ru">order@koenig-photo.ru</a>
             <i class="fa fa-phone"></i> <a href="tel:+79520585195">+7 952 058 51 95</a>
         </div>
         <div class="social-links float-right">

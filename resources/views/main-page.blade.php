@@ -281,7 +281,7 @@
                         <p class="cta-text">Для заказа наших услуг заполните форму заказа или свяжитесь с нами по телефону или e-mail.</p>
                         <div class="row">
                             <div class="contact-item col-sm-5">
-                                <i class="fa fa-envelope-o"></i> <a href="mailto:everskova.nadegda.91@gmail.com">everskova.nadegda.91@gmail.com</a>
+                                <i class="fa fa-envelope-o"></i> <a href="mailto:order@koenig-photo.ru">order@koenig-photo.ru</a>
                             </div>
                             <div class="contact-item col-sm-5">
                                 <i class="fa fa-phone"></i> <a href="tel:+79520585195">+7 952 058 51 95</a>
@@ -477,7 +477,7 @@
                         <div class="contact-email">
                             <i class="ion-ios-email-outline"></i>
                             <h3>Email</h3>
-                            <p><a href="mailto:everskova.nadegda.91@gmail.com">everskova.nadegda.91@gmail.com</a></p>
+                            <p><a href="mailto:order@koenig-photo.ru">order@koenig-photo.ru</a></p>
                         </div>
                     </div>
 

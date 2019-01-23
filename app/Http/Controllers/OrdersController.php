@@ -19,8 +19,7 @@ class OrdersController extends Controller
         $order->save();
 
 
-        Mail::to('everskova.nadegda.91@gmail.com')
-            ->cc('corazonsergey@gmail.com')
+        Mail::to('order@koenig-photo.ru')
             ->send(new NewOrder($order));
 
         return "OK";
